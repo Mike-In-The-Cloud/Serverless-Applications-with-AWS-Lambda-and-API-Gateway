@@ -1,0 +1,5 @@
+bucket_name     = ""
+s3_key_location =""
+invoke_arn      =""
+function_name   =""
+file_hash       =""
